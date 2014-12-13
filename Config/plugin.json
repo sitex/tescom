@@ -1,0 +1,14 @@
+{
+	"name" : "Tescom",
+	"description" : "Tes",
+
+	"author" : "Sitex",
+	"authorEmail" : "gsitex@gmail.com",
+	"authorUrl" : "http://sitex.kz",
+
+	"dependencies": {
+		"plugins": [
+			"Wysiwyg"
+		]
+	}
+}
